@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Check List</string>
+
+    <!--- Task Screen Strings -->
+    <string name="title">Mis Tareas</string>
+    <string name="to_do">Pendientes</string>
+    <string name="done">Finalizadas</string>
+    <string name="more_component">Más Fechas</string>
+    <string name="add_task">Más Fechas</string>
+    <string name="order_type">Tipo de orden</string>
+    <string name="search_desc">search icon</string>
+    <string name="check_button_icon">Marcar como completado</string>
+    <string name="swipe_to">Desliza para cambiar de fecha</string>
+
+    <!--- new task Screen Strings -->
+    <string name="Save">Guardar tarea</string>
+    <string name="update">Actualizar tarea</string>
+    <string name="add_icon">Agregar subtarea</string>
+    <string name="hint_title">Ingresa un título</string>
+    <string name="hint_desc">Escribe una descripción</string>
+    <string name="hint_sub_task">Escribe una subtarea</string>
+
+    <!--- Search Screen Strings -->
+    <string name="search_field">Buscar tareas</string>
+</resources>
